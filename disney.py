@@ -106,5 +106,5 @@ print("Budget Difference: ", budget_difference)
 #Goodbye message 
 print()
 print("Have a magical trip to Disneyland,", name + "!")
-print("Thank you foryour time!")
+print("Thank you for your time!")
 
